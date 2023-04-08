@@ -1,0 +1,108 @@
+body{
+    background: rgb(33, 26, 26);
+   }
+
+.table01 {
+    width: 60%;
+    margin:auto ;
+    text-align: left;
+    border-collapse: collapse;
+    border: 1px solid rgb(125, 123, 112);
+    background: rgb(62, 61, 55);
+    
+} 
+.table01_choose{
+    text-align:right
+}
+
+
+th {
+    padding: 10px;
+    font-size: 16px;
+    color: rgb(210, 219, 226);
+}
+
+
+td {
+    padding: 10px;
+    color: rgb(172, 153, 153);
+    border-block: 1px  solid;
+}
+
+.table02{
+    width: 60%;
+    margin:auto;
+    margin-top: 20px;
+    text-align: left;
+    border-collapse: collapse;
+    border: 1px solid rgb(125, 123, 112);
+    background: rgb(62, 61, 55);
+   
+}
+.table02_th{
+    padding: 10px;
+    font-size: 16px;
+    color: rgb(210, 219, 226);  
+}
+
+.table02_td{
+    padding: 10px;
+    color: rgb(172, 153, 153);
+    border-block: 1px  solid;
+}
+
+
+.table03{
+    width: 60%;
+    margin:auto;
+    margin-top: 20px;
+    border-collapse: collapse;
+    border: 1px solid rgb(125, 123, 112);
+    background: rgb(62, 61, 55); 
+}
+
+.table03_th{
+    padding: 10px;
+    font-size: 16px;
+    color: rgb(210, 219, 226);  
+    text-align: left;
+}
+.table03_th_date{
+    text-indent:-21%; 
+}
+
+.table03_time{
+    text-indent:30%;
+}
+.table03_choose{
+    text-align:right;  
+}
+.table03_day{
+    text-indent:30%;
+}
+
+ .table03_date{
+    text-indent:30%;
+ }
+
+#search{
+    width: 150px;
+    height: 30px;
+    color: rgb(224, 206, 206);
+    background-color: grey;
+    border: none;
+    border-radius: 5px;
+    float: right;
+}
+.pdf_file{
+    width: 25px;
+    height: 25px;
+   
+}
+
+.table03_td{
+    padding: 10px;
+    color: rgb(172, 153, 153);
+    border-block: 1px  solid;
+  
+}
